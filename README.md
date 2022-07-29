@@ -15,6 +15,9 @@
 :muscle: Raising my stars with **Competitive Coding** <br>
 
 :heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
+ 
+ 
+ <hr />
 
 <!--
 **aryaraj132/aryaraj132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +36,9 @@ Here are some ideas to get you started:
 
 <div align = "center">
 <div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=aryaraj132&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
-<hr />
+ 
+ 
+ 
 <div align="center">
 
 ## Connect with me  
@@ -55,4 +60,26 @@ Here are some ideas to get you started:
 </a>
 </div>  
  </div>
+ 
+ 
+ 
+<div align="center">
+ 
+## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)  
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"> <img src = "https://araj.tk/assets/img/icons/MERN.png" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"> 
+ 
+ 
+### :heavy_check_mark: Still here ? Visit <a href = "https://araj.tk/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
+ 
 <hr />
+
+<div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{aryaraj132}/count.svg)
+
+</div>
+
+### Show some ❤️ by starring some of the repositories!
+ 
+ </body>
