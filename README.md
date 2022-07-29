@@ -1,5 +1,22 @@
-### Hi there 👋
+<body style="background-color:WhiteSmoke;">
 
+
+<h1 align="center">Hi there 👋 </h1>
+ 
+
+<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about Web Development, DevOps and OpenSource, <br />Makeing Projects and experimenting with Modern Technology. <br /> Lazy coder tryin' to run my code faster.</b></p> <br>
+</div>
+
+ 
+:star:  Looking forward to start my professional career as a **Software Develompent Engineer** <br>
+:nerd_face: Currently learning **Full Stack Development & DevOps** <br>
+:snowflake: Pursuing B.Tech in **Computer Science Engineering** from **Govt. Engineering College** <br>
+🚀 Make Projects and Freelance in my free time <br>
+:muscle: Raising my stars with **Competitive Coding** <br>
+
+:heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
+
+<hr />
 <!--
 **aryaraj132/aryaraj132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
