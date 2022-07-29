@@ -5,7 +5,7 @@
  
 
 <p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about Web Development, DevOps and OpenSource, <br />Makeing Projects and experimenting with Modern Technology. <br /> Lazy coder tryin' to run my code faster.</b></p> <br>
-</div>
+
 
  
 :star:  Looking forward to start my professional career as a **Software Develompent Engineer** <br>
@@ -16,7 +16,6 @@
 
 :heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
 
-<hr />
 <!--
 **aryaraj132/aryaraj132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,13 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <div align = "center">
 <div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=aryaraj132&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 <hr />
 <div align="center">
- 
 
 ## Connect with me  
   
@@ -58,3 +54,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>  
+ </div>
+<hr />
