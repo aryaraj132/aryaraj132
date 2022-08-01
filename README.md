@@ -77,7 +77,6 @@ Here are some ideas to get you started:
  
 ### :heavy_check_mark: Still here ? Visit <a href = "https://araj.tk/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
 
-### :heavy_check_mark: Still here ? Visit  [<img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/>](https://araj.tk/){:target="_blank"}
  
 <hr />
 
