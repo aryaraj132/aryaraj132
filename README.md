@@ -75,7 +75,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only)
   
 </div>
- 
+<br />
  <br />
  <br />
  
