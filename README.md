@@ -96,11 +96,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align= "center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&bg_color=6f98fe00&include_all_commits=true" />&nbsp;&nbsp;
- <img 
-    width="49%"
-    src="http://github-readme-streak-stats.herokuapp.com?user=aryaraj132&theme=solarized-dark&background=6f98fe00" />  
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" />
+<div align= "center"><img src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&bg_color=6f98fe00&include_all_commits=true" />&nbsp;&nbsp;
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=aryaraj132&theme=solarized-dark&background=6f98fe00" />  <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" />
  </div>
   
  
