@@ -16,7 +16,7 @@
  
 :star:  Looking forward to start my professional career as a **Software Develompent Engineer** <br>
 :nerd_face: Currently learning **Full Stack Development & DevOps** <br>
-:snowflake: Pursuing B.Tech in **Computer Science Engineering** from **Govt. Engineering College** <br>
+:snowflake: Pursuing B.Tech in **Computer Science Engineering** from **GECJ** <br>
 🚀 Make Projects and Freelance in my free time <br>
 :muscle: Raising my stars with **Competitive Coding** <br>
 
