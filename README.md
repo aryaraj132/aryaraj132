@@ -23,6 +23,37 @@
 :heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
  
  
+ <br />
+ 
+  ### Connect with me:
+
+<!-- [![website](./icons/globe-light.svg)](https://araj.tk#gh-light-mode-only)
+[![website](./icons/globe-dark.svg)](https://araj.tk#gh-dark-mode-only)
+&nbsp;&nbsp; -->
+[![website](./icons/twitter-light.svg)](https://twitter.com/aryanankit_raj#gh-light-mode-only)
+[![website](./icons/twitter-dark.svg)](https://twitter.com/aryanankit_raj#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/linkedin-light.svg)](https://linkedin.com/in/aryaraj132#gh-light-mode-only)
+[![website](./icons/linkedin-dark.svg)](https://linkedin.com/in/aryaraj132#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/instagram-light.svg)](https://instagram.com/aryanankit.raj#gh-light-mode-only)
+[![website](./icons/instagram-dark.svg)](https://instagram.com/aryanankit.raj#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/mail-light.svg)](mailto:aryaraj132@gmail.com#gh-light-mode-only)
+[![website](./icons/mail-dark.svg)](mailto:aryaraj132@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/facebook-light.svg)](https://facebook.com/rajarya132#gh-light-mode-only)
+[![website](./icons/facebook-dark.svg)](https://facebook.com/#gh-dark-mode-only)
+ 
+ 
+ <br />
+ 
+ ### Languages and Tools
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26px" style="padding-right:10px;" />  <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+ <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/django-icon.png" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/react-js.png" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/node-js.png" width="26px" style="padding-right:10px;" />  <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+ 
+ 
+ <br />
  <hr />
 
 <!--
@@ -40,45 +71,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align = "center">
 <div align= "center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&bg_color=6f98fe00&include_all_commits=true" />&nbsp;&nbsp;
  <img 
     width="49%"
     src="http://github-readme-streak-stats.herokuapp.com?user=aryaraj132&theme=solarized-dark&background=6f98fe00" />  
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" />
  </div>
- 
-<div align="center">
-
-## Connect with me  
   
-<a href="https://twitter.com/aryanankit_raj" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/aryaraj132" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/rajarya132" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/aryanankit.raj" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-<a href = "mailto:aryaraj132@gmail.com" target = "_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>  
- </div>
- 
  
  
 <div align="center">
  
-## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)  
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"> <img src = "https://araj.tk/assets/img/icons/MERN.png" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"> 
  
- 
-### :heavy_check_mark: Still here ? Visit <a href = "https://araj.tk/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
+### :heavy_check_mark: Still here ? Visit <a href = "https://araj.tk/"> <img align="center" src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
 
  
 <hr />
