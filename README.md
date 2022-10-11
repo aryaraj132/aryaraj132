@@ -46,6 +46,14 @@
 [![website](./icons/facebook-dark.svg)](https://facebook.com/#gh-dark-mode-only)
  
  
+ <br />
+ 
+ ### Languages and Tools
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26px" style="padding-right:10px;" />  <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+ <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/django-icon.png" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/react-js.png" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/node-js.png" width="26px" style="padding-right:10px;" />  <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+ 
+ 
+ <br />
  <hr />
 
 <!--
@@ -73,9 +81,6 @@ Here are some ideas to get you started:
  
  
 <div align="center">
- 
-## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)  
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"> <img src = "https://araj.tk/assets/img/icons/MERN.png" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"> 
  
  
 ### :heavy_check_mark: Still here ? Visit <a href = "https://araj.tk/"> <img align="center" src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
