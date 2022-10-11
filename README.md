@@ -111,10 +111,10 @@ Here are some ideas to get you started:
  <br />
 
 <div align = "center">
- 
+ <!--
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{aryaraj132}/count.svg)
-
+-->
 </div>
 
 ### Show some ❤️ by starring some of the repositories!
