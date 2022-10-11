@@ -41,9 +41,12 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-<div align= "center"><img src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=transparent&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&locale=en&layout=compact"&custom_title="My Stats" align = "center"/></div>
- 
- 
+<div align= "center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=transparent&count_private=true&include_all_commits=true"&custom_title="My Stats" />&nbsp;&nbsp;
+ <img 
+    width="49%"
+    src="http://github-readme-streak-stats.herokuapp.com?user=aryaraj132&border=e4e2e2&theme=transparent" />  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&locale=en&layout=compact"&custom_title="My Stats"/>
+ </div>
  
 <div align="center">
 
