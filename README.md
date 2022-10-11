@@ -48,13 +48,38 @@
  
  <br />
  
+ <div>
+  
+  
  ### Languages and Tools
-<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26px" style="padding-right:10px;" />  <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
- <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/django-icon.png" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/react-js.png" width="26px" style="padding-right:10px;" /> <img align="left" src = "./icons/node-js.png" width="26px" style="padding-right:10px;" />  <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26px" style="padding-right:10px;" /> <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
- 
+  
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;padding-top:10px;" />
+ <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "./icons/django-icon.png" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "./icons/react-js.png" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "./icons/node-js.png" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "./icons/nextjs.png" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+<img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" />
+
+  
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./icons/terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only)
+  
+</div>
  
  <br />
- <hr />
+ <br />
+ 
+ ### Github Stats
 
 <!--
 **aryaraj132/aryaraj132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,14 +104,13 @@ Here are some ideas to get you started:
  </div>
   
  
- 
+ <hr />
 <div align="center">
  
  
 ### :heavy_check_mark: Still here ? Visit <a href = "https://araj.tk/"> <img align="center" src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
 
- 
-<hr />
+ <br />
 
 <div align = "center">
  
