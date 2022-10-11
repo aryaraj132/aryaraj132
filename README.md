@@ -79,7 +79,7 @@
  <br />
  <br />
  
- ### Github Stats
+<!--  ### Github Stats -->
 
 <!--
 **aryaraj132/aryaraj132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -96,11 +96,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <details>
+  <summary><h3>GitHub Stats</h3></summary>
+ 
 <div align= "center"><img src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&bg_color=6f98fe00&include_all_commits=true" />&nbsp;&nbsp;
  <img src="http://github-readme-streak-stats.herokuapp.com?user=aryaraj132&theme=solarized-dark&background=6f98fe00" />  <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" />
  </div>
-  
+ </details>
  
  <hr />
 <div align="center">
