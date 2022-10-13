@@ -19,7 +19,6 @@
 :snowflake: Pursuing B.Tech in **Computer Science Engineering** from **GECJ** <br>
 🚀 Make Projects and Freelance in my free time <br>
 :muscle: Raising my stars with **Competitive Coding** <br>
-
 :heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
  
  
