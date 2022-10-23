@@ -42,7 +42,7 @@
 [![website](./icons/mail-dark.svg)](mailto:aryaraj132@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./icons/facebook-light.svg)](https://facebook.com/rajarya132#gh-light-mode-only)
-[![website](./icons/facebook-dark.svg)](https://facebook.com/#gh-dark-mode-only)
+[![website](./icons/facebook-dark.svg)](https://facebook.com/rajarya132#gh-dark-mode-only)
  
  
  <br />
