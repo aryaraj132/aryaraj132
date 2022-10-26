@@ -1,7 +1,7 @@
 <body style="background-color:black;">
 
 
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there 👋 I am Aryan Raj </h1>
  
 <!--
 <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Aryan%20Raj&height=150&fontSize=80&desc=CSE%20Student&descAlignY=75&descAlign=82.4"/></div>
