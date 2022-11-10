@@ -111,8 +111,6 @@ Here are some ideas to get you started:
  
 ### Visit <a href = "https://araj.tk/"> <img align="center" src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
 
- <br />
-
 <div align = "center">
  <!--
 **Visitors Count**  
