@@ -39,8 +39,8 @@
 [![website](./icons/instagram-light.svg)](https://instagram.com/aryanankit.raj#gh-light-mode-only)
 [![website](./icons/instagram-dark.svg)](https://instagram.com/aryanankit.raj#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./icons/mail-light.svg)](mailto:aryaraj132@gmail.com#gh-light-mode-only)
-[![website](./icons/mail-dark.svg)](mailto:aryaraj132@gmail.com#gh-dark-mode-only)
+[![website](./icons/mail-light.svg)](mailto:aryan@araj.tk#gh-light-mode-only)
+[![website](./icons/mail-dark.svg)](mailto:aryan@araj.tk#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./icons/facebook-light.svg)](https://facebook.com/rajarya132#gh-light-mode-only)
 [![website](./icons/facebook-dark.svg)](https://facebook.com/rajarya132#gh-dark-mode-only)
