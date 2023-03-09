@@ -103,6 +103,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=aryaraj132&theme=tokyo-night&bg_color=6f98fe00&hide_border=true&point=74a400&custom_title=Contibution%20Graph&color=bb8c00" /> -->
  </div>
+  
+  <p align="center" color="grey">** I am consistent but not that consistent ⏲️ ....... Its automation 🤯</p>
+  
  </details>
  
 <div align="center">
