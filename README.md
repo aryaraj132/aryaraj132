@@ -14,10 +14,10 @@
 
 
  
-:star:  Looking forward to start my professional career as a **Software Develompent Engineer** <br>
-:nerd_face: Currently learning **Full Stack Development & DevOps** <br>
-:snowflake: Pursuing B.Tech in **Computer Science Engineering** from **GECJ** <br>
-🚀 Make Projects and Freelancing in my free time <br>
+:star:  SDE at Mailmodo <br>
+:nerd_face: Currently Improving **Full Stack Development & DevOps** <br>
+:snowflake: B.Tech in **Computer Science Engineering** from **GECJ** <br>
+🚀 Make Projects in my free time <br>
 :muscle: Raising my stars with **Competitive Coding** <br>
 :heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
  
