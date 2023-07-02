@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 <div align="center">
  
  
-### Visit <a href = "https://araj.tk/"> <img align="center" src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
+### Visit <a href = "https://heyaryan.in/"> <img align="center" src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a>
 
 <div align = "center">
  <!--
