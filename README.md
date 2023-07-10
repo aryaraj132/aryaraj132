@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder;Supervisor+and+Mentor+in+ML+Domain!&center=true&width=380&height=45"/><br>
   -->
 
-<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about Web Development, DevOps and OpenSource, <br />Makeing Projects and experimenting with Modern Technology. <br /> Lazy coder tryin' to run my code faster.</b></p> <br>
+<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about Web Development, DevOps and OpenSource, <br />Making projects and experimenting with evergrowing technology. <br /> Lazy coder tryin' to run my code faster.</b></p> <br>
 
 
  
