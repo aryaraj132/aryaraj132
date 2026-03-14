@@ -36,15 +36,18 @@
 [![website](./icons/linkedin-light.svg)](https://linkedin.com/in/aryaraj132#gh-light-mode-only)
 [![website](./icons/linkedin-dark.svg)](https://linkedin.com/in/aryaraj132#gh-dark-mode-only)
 &nbsp;&nbsp;
+<!--
 [![website](./icons/instagram-light.svg)](https://instagram.com/aryanankit.raj#gh-light-mode-only)
 [![website](./icons/instagram-dark.svg)](https://instagram.com/aryanankit.raj#gh-dark-mode-only)
 &nbsp;&nbsp;
+-->
 [![website](./icons/mail-light.svg)](mailto:aryaraj132@gmail.com#gh-light-mode-only)
 [![website](./icons/mail-dark.svg)](mailto:aryaraj132@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
+<!--
 [![website](./icons/facebook-light.svg)](https://facebook.com/rajarya132#gh-light-mode-only)
 [![website](./icons/facebook-dark.svg)](https://facebook.com/rajarya132#gh-dark-mode-only)
- 
+ -->
  
  <br />
  
@@ -68,10 +71,10 @@
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only) 
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only) &nbsp;&nbsp;
-[<img alt="Terminal" width="26px" src="./icons/terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
-[<img alt="Terminal" width="26px" src="./icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) &nbsp;&nbsp;
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> &nbsp;&nbsp;
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /> &nbsp;&nbsp;
+<img alt="Terminal" width="26px" src="./icons/terminal-light.svg" /> &nbsp;&nbsp;
+<img alt="Terminal" width="26px" src="./icons/terminal-dark.svg" /> &nbsp;&nbsp;
  
  
  </p>
@@ -93,21 +96,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
  <details>
   <summary><h3>GitHub Stats</h3></summary>
  
 <div align= "center">
+-->
  <!--<img src="https://github-readme-stats.vercel.app/api?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&bg_color=6f98fe00&include_all_commits=true" />&nbsp;&nbsp; -->  
+ <!--
  <img src="https://streak-stats.demolab.com/?user=aryaraj132&theme=solarized-dark&background=6f98fe00"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaraj132&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true&bg_color=6f98fe00&locale=en&layout=compact&langs_count=5" /> -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=aryaraj132&theme=tokyo-night&bg_color=6f98fe00&hide_border=true&point=74a400&custom_title=Contibution%20Graph&color=bb8c00" /> -->
+<!--
  </div>
   
   <p align="center" color="grey">** I am consistent but not that consistent ⏲️ ....... Its automation 🤯</p>
   
  </details>
- 
+ -->
 <div align="center">
  
  
