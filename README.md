@@ -14,7 +14,7 @@
 
 
  
-:star:  SDE at Mailmodo <br>
+:star:  SDE at Movableink <br>
 :nerd_face: Currently Improving **Full Stack Development & DevOps** <br>
 :snowflake: B.Tech in **Computer Science Engineering** from **GECJ** <br>
 🚀 Make Projects in my free time <br>
@@ -36,15 +36,13 @@
 [![website](./icons/linkedin-light.svg)](https://linkedin.com/in/aryaraj132#gh-light-mode-only)
 [![website](./icons/linkedin-dark.svg)](https://linkedin.com/in/aryaraj132#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!--
-[![website](./icons/instagram-light.svg)](https://instagram.com/aryanankit.raj#gh-light-mode-only)
-[![website](./icons/instagram-dark.svg)](https://instagram.com/aryanankit.raj#gh-dark-mode-only)
-&nbsp;&nbsp;
--->
 [![website](./icons/mail-light.svg)](mailto:aryaraj132@gmail.com#gh-light-mode-only)
 [![website](./icons/mail-dark.svg)](mailto:aryaraj132@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 <!--
+[![website](./icons/instagram-light.svg)](https://instagram.com/aryanankit.raj#gh-light-mode-only)
+[![website](./icons/instagram-dark.svg)](https://instagram.com/aryanankit.raj#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./icons/facebook-light.svg)](https://facebook.com/rajarya132#gh-light-mode-only)
 [![website](./icons/facebook-dark.svg)](https://facebook.com/rajarya132#gh-dark-mode-only)
  -->
