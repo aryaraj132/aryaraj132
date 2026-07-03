@@ -15,10 +15,9 @@
 
  
 :star:  SDE at Movableink <br>
-:nerd_face: Currently Improving **Full Stack Development & DevOps** <br>
+:nerd_face: Currently adopting Agentic workflows in products(some call it AI engineering 🤷‍♂️:) <br>
 :snowflake: B.Tech in **Computer Science Engineering** from **GECJ** <br>
 🚀 Make Projects in my free time <br>
-:muscle: Raising my stars with **Competitive Coding** <br>
 :heart: Coffee  :coffee:  Music 🎶  Stack Overflow  :book:
  
  
