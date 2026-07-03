@@ -48,7 +48,7 @@
  
  <br />
  
-  
+  <!--
  ### Languages and Tools
  
 <p align="left">
@@ -75,7 +75,7 @@
  
  
  </p>
-<br />
+<br />-->
  
 <!--  ### Github Stats -->
 
